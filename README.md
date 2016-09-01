@@ -1,4 +1,4 @@
-LokiJS Overview
+LokiJS Testing
 ===============
 
 To install needed packages make sure you have a recent node version and npm installed.
