@@ -1,0 +1,13 @@
+{
+  "name": "lokijs-overview",
+  "version": "1.0.0",
+  "description": "Testing LokiJs",
+  "author": "Adrian Hangan",
+  "license": "ISC",
+  "private": true,
+  "dependencies": {
+    "connect": "^3.4.1",
+    "lokijs": "^1.4.1",
+    "serve-static": "^1.11.1"
+  }
+}
